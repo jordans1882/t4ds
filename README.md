@@ -1,6 +1,6 @@
 # T4DS Workshop
 
-## Instructions for Contribution:
+## Instructions for Contributors:
 
 1. After forking the repo, add tutorials in the `_posts/` directory. Posts are in markdown and built into the site automatically.
 2. Title posts in the format: `yyyy-mm-dd-postname.md` For example, `2023-04-17-awesome-topology-stuff.md`
@@ -54,9 +54,9 @@ ___
 ___
 
 
-If you want to see the built site, check it out 
+If you want to see the built site, check it out
 [here](https://comptag.github.io/t4ds/). It normally takes 3 ish minutes to build.
-You can also do this locally using jekyll, though it's not the easiest to set up. 
+You can also do this locally using jekyll, though it's not the easiest to set up.
 In a time crunch, I recommend just doing this online.
 
 ---
