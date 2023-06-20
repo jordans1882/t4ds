@@ -10,3 +10,19 @@ tags:
 
 ---
 ## My first post
+
+Let's test out some maths!
+
+Given two sets $A, B \subset \mathbb{R}^2$, let $a \in A, b' \in B$.
+
+
+And now let's test out some
+
+
+<details>
+<summary style="color:red">See the Answer</summary>
+<br>
+<pre style="background-color:lightcoral">
+<img src="https://comptag.github.io/t4ds/assets/images/cplx.jpg " alt="complex">
+</pre>
+</details>
