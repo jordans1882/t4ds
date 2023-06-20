@@ -15,7 +15,7 @@ site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url:
+favicon-url: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fasr%2Fb9b475ba-9db7-4733-bc8a-7cd96b50d488_1.f56a2d5d21a5bf66c4340971847d8baf.jpeg&f=1&nofb=1&ipt=522babf0e877c47e47d9dc6baf25851d2656ce737a5efce06d1a7105cfd4c8d9&ipo=images
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://www.nps.gov/npgallery/GetAsset/1FE16D77-155D-451F-67BEAA70882EBD52/proxy/hires?
